@@ -1,3 +1,27 @@
 body {
     padding-top: 25px;  
    }
+
+   body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
+    margin: 100px 100px 500px 100px;
+  }
+  
+  section {
+    transition: transform .25s;
+    will-change: transform;
+  }
+  
+  section img {
+    width: 500px;
+  }
+  
+  div {
+    margin: 0 0 70px 0;
+  }
+  
+  h2 {
+    margin: 15px 0 0 0;
+  }
